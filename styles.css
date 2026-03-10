@@ -79,7 +79,7 @@ body {
         font-size: 45px;
         font-weight: 700;
         color: var(--bcg);
-} #prof-data .bio { font-size: 15px; color: var(--bcg); }
+} #prof-data .bio { font-size: 12px; color: var(--bcg); }
 
 #prof-data .badge {
         background: var(--border3);
