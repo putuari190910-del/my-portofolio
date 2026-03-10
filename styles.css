@@ -103,6 +103,7 @@ body {
         display: flex;
         align-items: center;
         padding: 8px 0;
+        font-size: 15px;
 } .bio-section .bio-data:not(.btm) { border-bottom: 1px solid var(--border); }
 .bio-section .bio-data.gap { margin-top: 20px; }
 .bio-data .l, .bio-data .r { flex-grow: 1; }
